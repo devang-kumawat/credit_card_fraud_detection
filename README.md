@@ -54,9 +54,9 @@ The notebook provides insights into the effectiveness of under-sampling and over
 
 To reproduce the results and explore the code, follow these steps:
 
-1. Clone this repository:
+1. Clone this repository
 
-2. Install the required dependencies:
+2. Install the required dependencies
 
-3. Open and run the Jupyter Notebook:
+3. Open and run the Jupyter Notebook
 
